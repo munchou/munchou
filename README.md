@@ -12,5 +12,7 @@
 
 
 <p align="center">
+    <a href="https://github.com/munchou">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munchou&theme=tokyonight"/>
+    </a>
 </p>
