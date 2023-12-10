@@ -11,8 +11,10 @@
 - ⚡ Fun fact: go to your favorite search engine and type "fun fatcs". First it'll show you that you mispelled "facts" (had you noticed?), next it'll display you results that'll do a better job than I would. Glory to the Internet, right?
 
 # Studies projects
-<p>
-    <a href="https://github.com/munchou/OpenClassrooms-Project-2"><img src="/_github_images/project02.png"/></a>
+<p align="center">
+    <a href="https://github.com/munchou/OpenClassrooms-Project-2"><img src="/_github_images/project02.png"/></a> 
+    <a href="https://github.com/munchou/OpenClassrooms-Project-3"><img src="/_github_images/project04.png"/></a> 
+    <a href="https://github.com/munchou/OpenClassrooms-Project-4"><img src="/_github_images/project06.png"/></a>
 </p>
 
 
