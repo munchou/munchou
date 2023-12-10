@@ -15,10 +15,9 @@ coming very soon
 
 # Personal projects
 <p align="center">
-    <a href="https://github.com/munchou/hangman-game"><img src="/_github_images/hangman_game.png"/></a>
-</p>
-<p align="center">Totally playable. Still in progress, probably finished soon. Possibility to manually add words.<br/>
-Word retriever: allows to retrieve words from dictionary.cambridge.org manually or from a file (in which words were added manually).<br/>
+    <a href="https://github.com/munchou/hangman-game"><img src="/_github_images/hangman_game.png"/></a><br/>
+Totally playable. 2 languages: English and French. Still in progress, probably finished soon. Possibility to manually add words.<br/>
+For the English version: word retriever -> allows the user to retrieve words' definitions from dictionary.cambridge.org manually or from a file (in which words are added manually, one word per line).<br/>
 To avoid weird/unusual words, I absolutely discourage from automating such an important task...</p>
 
 # Studies projects
