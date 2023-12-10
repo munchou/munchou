@@ -11,7 +11,7 @@
 - ⚡ Fun fact: go to your favorite search engine and type "fun fatcs". First it'll show you that you mispelled "facts" (had you noticed?), next it'll display you results that'll do a better job than I would. Glory to the Internet, right?
 
 # Collabo (no link with the 1940s')
-coming very oon
+coming very soon
 
 # Personal projects
 coming super soon
