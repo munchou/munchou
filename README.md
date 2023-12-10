@@ -13,11 +13,19 @@
 # Studies projects
 <p align="center">
     <a href="https://github.com/munchou/OpenClassrooms-Project-2"><img src="/_github_images/project02.png"/></a> 
-    <a href="https://github.com/munchou/OpenClassrooms-Project-3"><img src="/_github_images/project04.png"/></a> 
-    <a href="https://github.com/munchou/OpenClassrooms-Project-4"><img src="/_github_images/project06.png"/></a>
+    <a href="https://github.com/munchou/OpenClassrooms-Project-4"><img src="/_github_images/project04.png"/></a> 
+    <a href="https://github.com/munchou/OpenClassrooms-Project-6"><img src="/_github_images/project06.png"/></a>
 </p>
-
-
+<p align="center">
+    <a href="https://github.com/munchou/OpenClassrooms-Project-7"><img src="/_github_images/project07.png"/></a> 
+    <a href="https://github.com/munchou/OpenClassrooms-Project-9"><img src="/_github_images/project09.png"/></a> 
+    <a href="https://github.com/munchou/OpenClassroms-Project-10"><img src="/_github_images/project10.png"/></a>
+</p>
+<p align="center">
+    <a href="https://github.com/munchou/OpenClassrooms-Project-11"><img src="/_github_images/project11.png"/></a> 
+    <a href="https://github.com/munchou/OpenClassrooms-Project-12"><img src="/_github_images/project12.png"/></a> 
+    <a href="https://github.com/munchou/OpenClassrooms-Project-13"><img src="/_github_images/project13.png"/></a>
+</p>
 
 <p align="center">
     <a href="https://github.com/munchou">
