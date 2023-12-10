@@ -10,6 +10,12 @@
 - 😄 Pronouns: wrong place to learn about pronouns. For that, there is a place called "school". I heard it can be quite harsh and stressful, but don't quote me on this, I skipped it.
 - ⚡ Fun fact: go to your favorite search engine and type "fun fatcs". First it'll show you that you mispelled "facts" (had you noticed?), next it'll display you results that'll do a better job than I would. Glory to the Internet, right?
 
+# Collabo (no link with the 1940s')
+comming very oon
+
+# Personal projects
+coming super soon
+
 # Studies projects
 <p align="center">
     <a href="https://github.com/munchou/OpenClassrooms-Project-2"><img src="/_github_images/project02.png"/></a> 
