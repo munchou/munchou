@@ -1,8 +1,9 @@
 ### Hi there 👋
+<i>last update: 21 February 2024</i>
 
 
-- 🔭 I’m currently working: no.
-- 🌱 I’m currently learning: yes, until Death does me. And yes, that's disgusting.
+- 🔭 I’m currently working: no, but I want to.
+- 🌱 I’m currently learning: yes, until Death does me. Hahaaaaaa!
 - 👯 I’m looking to collaborate: yes.
 - 🤔 I’m looking for help with: the understanding of the Universe and Life.
 - 💬 Ask me about: things I'm able to answer. That'll be a good start.
@@ -11,14 +12,23 @@
 - ⚡ Fun fact: go to your favorite search engine and type "fun fatcs". First it'll show you that you mispelled "facts" (had you noticed?), next it'll display you results that'll do a better job than I would. Glory to the Internet, right?
 
 # Collabo (no link with the 1940s')
-coming very soon
+Nothing yet. One day?
 
 # Personal projects
 <p align="center">
+    <a href="https://www.planetofthedevz.com"><img src="/_github_images/planetofthedevz.png"/></a><br/>
+    My greatest project so far: a web-app exclusively for developers without any professional experience and companies looking for them!<br>
+    Finished and functional. Took 2 months, from half December 2023 to half February 2024.<br>
+    Made in Python (Django), PostgreSQL database, encrypted e-mails in the DB, files upload (images automatically resized + CV in PDF), contact form (SMTP, no e-mail info), profiles randomly displayed on the feed to be fair to everyone, etc.<br>
+    Deployed on a VPS running on Ubuntu and Nginx.
+</p>
+
+<p align="center">
     <a href="https://github.com/munchou/hangman-game"><img src="/_github_images/hangman_game.png"/></a><br/>
-Totally playable. 2 languages: English and French. Still in progress, probably finished soon. Possibility to manually add words.<br/>
-For the English version: word retriever -> allows the user to retrieve words' definitions from dictionary.cambridge.org manually or from a file (in which words are added manually, one word per line).<br/>
-To avoid weird/unusual words, I absolutely discourage from automating such an important task...</p>
+    Totally playable. 2 languages: English and French. Still in progress, probably finished soon. Possibility to manually add words.<br/>
+    For the English version: word retriever -> allows the user to retrieve words' definitions from dictionary.cambridge.org manually or from a file (in which words are added manually, one word per line).<br/>
+    To avoid weird/unusual words, I absolutely discourage from automating such an important task...
+</p>
 
 # Studies projects
 <p align="center">
