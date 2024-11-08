@@ -1,5 +1,5 @@
 ### Hi there 👋
-<i>last update: 21 February 2024</i>
+<i>last update: 8th of November, 2024</i>
 
 
 - 🔭 I’m currently working: no, but I want to.
