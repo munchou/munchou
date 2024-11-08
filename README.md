@@ -24,6 +24,13 @@ Nothing yet. One day?
 </p>
 
 <p align="center">
+    <a href="https://github.com/munchou/palindrome-or-not"><img src="/_github_images/palindrome_checker.png"/></a><br/>
+    Ever wondered if the word or sentence you were looing at was a palindrome? Search no more! That daily question can now be easily answered!<br/>
+    What's more, you can choose if you want to skip spaces, punctuation and digits!<br/>
+    Damn, 2024 is ending well in the worl of I.T.
+</p>
+
+<p align="center">
     <a href="https://github.com/munchou/hangman-game"><img src="/_github_images/hangman_game.png"/></a><br/>
     Totally playable. 2 languages: English and French. Still in progress, probably finished soon. Possibility to manually add words.<br/>
     For the English version: word retriever -> allows the user to retrieve words' definitions from dictionary.cambridge.org manually or from a file (in which words are added manually, one word per line).<br/>
