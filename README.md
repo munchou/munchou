@@ -25,9 +25,8 @@ Nothing yet. One day?
 
 <p align="center">
     <a href="https://github.com/munchou/palindrome-or-not"><img src="/_github_images/palindrome_checker.png"/></a><br/>
-    Ever wondered if the word or sentence you were looing at was a palindrome? Search no more! That daily question can now be easily answered!<br/>
-    What's more, you can choose if you want to skip spaces, punctuation and digits!<br/>
-    Damn, 2024 is ending well in the worl of I.T.
+    Ever wondered if the word or sentence you were looking at was a palindrome? Search no more! That daily question can now be easily answered! What's more, you can choose if you want to skip spaces, punctuation and digits!<br/>
+    Damn, 2024 is ending well in the world of I.T.
 </p>
 
 <p align="center">
