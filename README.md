@@ -1,5 +1,5 @@
 ### Hi there 👋
-<i>last update: 8th of November, 2024</i>
+<i>last update: 9th of May, 2025</i>
 
 
 - 🔭 I’m currently working: no, but I want to.
@@ -15,6 +15,13 @@
 Nothing yet. One day?
 
 # Personal projects
+<b>Latest (Open Source but no commercial use nor patent and other weird stuff) projects:</b><br>
+<a href="https://github.com/munchou/zupasswordz-manager">ZUPAsswordz Manager</a>: an Android application (yes yes, you read well) made in Python with Kivy framework. Totally offline (except to download it, duh!), user's databases encrypted and device dependent (= cannot decrypt a stolen database), encrypted backup, can import backup (encrypted or hand-made), search bar, multple themes and languages. <a href="https://planetofthedevz.com/zupasswordz_manager/">More info here</a>, and you can also <a href="https://planetofthedevz.com/zupasswordz_manager/doc/">see the documentation</a>.<br/>
+<a href="https://github.com/munchou/docstrings-docmaker">A docstrings documentation maker</a><br/>
+<a href="https://github.com/munchou/intro-to-data-parsing">Introduction to (pure) data parsing in Python</a>: a presentation in front of group of devz about parsing in (mainly) raw Python (= no libraries, no regex)<br/>
+<a href="https://github.com/munchou/auditoriums_manager_for_the_poor">Auditorium Manager for the poor v1.0</a>: a project to show how to create a terminal interface, how to create menus using while loops WITHOUT calling functions INSIDE the loops, how to call functions, a way to handle a simple JSON database by creating it (if it doesn't exist) and updating it in the C.R.U.D. way.<br/>
+<a href="https://github.com/munchou/convert_digit_number_in_text">ZUPA CONVERTER v1.0 - From digits to text!</a>An awesome program that converts your digit entry into its text version. You can input numbers with or without commas (45,021 or 45021), use decimals (46.0032), choose to output "and" after "hundred" (English way) or without (American way), etc. It'll check if you made a typo (bad comma position: 45,6548,84.12 / too many periods: 5,684.21.23). Numbers up to 999 decillion, but one can edit the code and increase the limit!<br/>
+
 <p align="center">
     <a href="https://www.planetofthedevz.com"><img src="/_github_images/planetofthedevz.png"/></a><br/>
     My greatest project so far: a web-app exclusively for developers without any professional experience and companies looking for them!<br>
