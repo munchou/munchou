@@ -2,13 +2,13 @@
 <i>last update: 9th of May, 2025</i>
 
 
-- 🔭 I’m currently working: no, but I want to.
+- 🔭 I’m currently working in I.T.: no, but I want to.
 - 🌱 I’m currently learning: yes, until Death does me. Hahaaaaaa!
 - 👯 I’m looking to collaborate: yes.
 - 🤔 I’m looking for help with: the understanding of the Universe and Life.
 - 💬 Ask me about: things I'm able to answer. That'll be a good start.
 - 📫 How to reach me: send me a message, perhaps? A pigeon will do, too. I only eat super fat ones.
-- 😄 Pronouns: wrong place to learn about pronouns. For that, there is a place called "school". I heard it can be quite harsh and stressful, but don't quote me on this, I skipped it.
+- 😄 Pronouns: really? You people are still at it? :')
 - ⚡ Fun fact: go to your favorite search engine and type "fun fatcs". First it'll show you that you mispelled "facts" (had you noticed?), next it'll display you results that'll do a better job than I would. Glory to the Internet, right?
 
 # Collabo (no link with the 1940s')
