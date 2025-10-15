@@ -1,5 +1,5 @@
 ### Hi there 👋
-<i>last update: 9th of May, 2025</i>
+<i>last update: 15th of October, 2025</i>
 
 
 - 🔭 I’m currently working in I.T.: no, but I want to.
@@ -16,6 +16,7 @@ Nothing yet. One day?
 
 # Personal projects
 <b>Latest projects (Open Source but no commercial use nor patent and other weird stuff):</b><br>
+- <a href="https://github.com/munchou/pictures-sorter">ZUPAPictures Sorter</a>: a Flask app to sort pictures in a target folder, instead of manually selecting and moving them. It generates a list of the subfolders in the left side menu and displays the current picture on the right. Click a folder to move the picture to it. You can also undo the last move, remove the current picture, jump to another one, create folders, change folder, go back to the parent folder.<br/>
 - <a href="https://github.com/munchou/zupasswordz-manager">ZUPAsswordz Manager</a>: an Android application (yes yes, you read well) made in Python with Kivy framework. Totally offline (except to download it, duh!), user's databases encrypted and device dependent (= cannot decrypt a stolen database), encrypted backup, can import backup (encrypted or hand-made), search bar, multple themes and languages. <a href="https://planetofthedevz.com/zupasswordz_manager/">More info here</a>, and you can also <a href="https://planetofthedevz.com/zupasswordz_manager/doc/">see the documentation</a>.<br/>
 - <a href="https://github.com/munchou/docstrings-docmaker">Docstrings documentation maker</a> Generates an organized HTML with nav menu of all the docstrings of a project. Simple terminal interface, possibility to add folders to be skipped, output path, etc.<br/>
 - <a href="https://github.com/munchou/intro-to-data-parsing">Introduction to (pure) data parsing in Python</a> A presentation in front of group of devz about parsing in (mainly) raw Python (= no libraries, no regex)<br/>
