@@ -1,5 +1,5 @@
 ### Hi there 👋
-<i>last update: 15th of October, 2025</i>
+<i>last update: 26th of December, 2025</i>
 
 
 - 🔭 I’m currently working in I.T.: no, but I want to.
@@ -47,7 +47,7 @@ Nothing yet. One day?
 
 # Studies projects
 <p align="center">
-    <a href="https://github.com/munchou/OpenClassrooms-Project-13"><img src="/_github_images/project13.png"/></a> 
+    <a href="https://github.com/munchou/OpenClassrooms-Project-13"><img src="_github_images/project13.png"/></a> 
     <a href="https://github.com/munchou/OpenClassrooms-Project-12"><img src="/_github_images/project12.png"/></a> 
     <a href="https://github.com/munchou/OpenClassrooms-Project-11"><img src="/_github_images/project11.png"/></a>
 </p>
