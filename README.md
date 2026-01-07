@@ -65,6 +65,6 @@ Nothing yet. One day?
 </p>
 
 <p align="center">
-    <img src="user_img/munchou_github_stats_general.svg"/><br>
-    <img src="user_img/munchou_github_stats_languages.svg" width="485px"/>
+    <img src="user_img/munchou_github_stats_general.svg" max-width="100%" height="auto"/><br>
+    <img src="user_img/munchou_github_stats_languages.svg" max-width="100%" height="auto"/>
 </p>
