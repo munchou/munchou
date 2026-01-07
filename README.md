@@ -65,7 +65,7 @@ Nothing yet. One day?
 </p>
 
 <p align="center">
-    <a href="https://github.com/munchou">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munchou&theme=tokyonight"/>
-    </a>
+    <img src="user_img/munchou_github_stats_general.png"/>
+    <img src="user_img/munchou_github_stats_general.svg"/>
+    <img src="user_img/munchou_github_stats_languages.svg"/>
 </p>
