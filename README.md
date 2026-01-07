@@ -64,7 +64,10 @@ Nothing yet. One day?
     <a href="https://github.com/munchou/OpenClassrooms-Project-2"><img src="_github_images/project02.png"/></a>
 </p>
 
+
 <p align="center">
-    <img src="user_img/munchou_github_stats_general.svg" max-width="100%" height="auto"/><br>
-    <img src="user_img/munchou_github_stats_languages.svg" max-width="100%" height="auto"/>
+    <kbd>
+    <img src="user_img/munchou_github_stats_general.svg" width="360px" height="auto"/><br>
+    <img src="user_img/munchou_github_stats_languages.svg" width="360px" height="auto"/>
+    </kbd>
 </p>
