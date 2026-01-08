@@ -67,7 +67,7 @@ Nothing yet. One day?
 
 <p align="center">
     <kbd>
-    <img src="https://www.planetofthedevz.com/static/github_zupastats/munchou_github_stats_general.png" width="360px" height="auto"/><br>
-    <img src="https://www.planetofthedevz.com/static/github_zupastats/munchou_github_stats_languages.svg" width="360px" height="auto"/>
+    <img src="https://www.planetofthedevz.com/staticfiles/github_zupastats/munchou_github_stats_general.png" width="360px" height="auto"/><br>
+    <img src="https://www.planetofthedevz.com/staticfiles/github_zupastats/munchou_github_stats_languages.svg" width="360px" height="auto"/>
     </kbd>
 </p>
