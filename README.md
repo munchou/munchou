@@ -67,7 +67,7 @@ Nothing yet. One day?
 
 <p align="center">
     <kbd>
-        <img src="https://avatars.githubusercontent.com/u/99625882?v=4" height="40px" width="auto"><br<
+        <img src="https://avatars.githubusercontent.com/u/99625882?v=4" height="40px" width="auto"><br>
         munchou's stats<br>
         <img src="https://www.planetofthedevz.com/staticfiles/github_zupastats/munchou_github_stats_general.png" alt="User's general stats" style="width:360px; height:auto;"><br>
         <img src="https://www.planetofthedevz.com/staticfiles/github_zupastats/munchou_github_stats_languages.svg" alt="Languages Pie graph" style="width:360px; height:auto;">
